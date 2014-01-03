@@ -10,7 +10,7 @@ import flixel.FlxG;
 
 /**
  * ...
- * @author Jimmy Comack
+ * @author Jimmeehhh
  */
 class Player extends GameObject
 {
@@ -71,6 +71,8 @@ class Player extends GameObject
 		
 		if (FlxG.keyboard.pressed("SPACE") && )
 		{
+			
+			
 			
 			//createFireball();
 			//FlxG.camera.shake(0.005);

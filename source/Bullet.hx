@@ -5,7 +5,7 @@ import flixel.FlxSprite;
 
 /**
  * ...
- * @author Jimmy Comack
+ * @author Jimmeehhh
  */
 class Bullet extends FlxSprite
 {

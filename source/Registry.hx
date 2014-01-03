@@ -5,7 +5,7 @@ import flixel.*;
 
 /**
  * ...
- * @author Jimmy Comack
+ * @author Jimmeehhh
  */
 class Registry
 {
@@ -15,6 +15,7 @@ class Registry
 	public static var player:Player;
 	public static var map:Map;
 	public static var bullets:BulletManager;
+	public static var currentWeapon:Weapon;
 
 	public static var bulletsFired:Int;
 		

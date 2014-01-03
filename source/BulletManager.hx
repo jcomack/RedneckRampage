@@ -3,11 +3,13 @@ import flixel.group.FlxGroup;
 
 /**
  * ...
- * @author Jimmy Comack
+ * @author Jimmeehhh
  */
 class BulletManager extends FlxGroup
 {
-	public function new()
+		
+	
+	public function new(bullet:Bullet)
 	{
 		super();
 		
